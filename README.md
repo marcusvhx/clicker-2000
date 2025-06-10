@@ -79,13 +79,13 @@ opening the app you need to
 
 ### Record the first work
 
-<video controls src="tutorial/recording.mp4" title="recording"></video>
+<image controls src="tutorial/recording.gif" title="recording"></image>
 
 ---
 
 ### Using the short key
 
-<video controls src="tutorial/short_key.mp4" title="Title"></video>
+<image controls src="tutorial/short_key.gif" title="Title"></image>
 
 ---
 
@@ -93,11 +93,11 @@ opening the app you need to
 
 #### Repeating
 
-<video controls src="tutorial/repeating.mp4" title="repeating"></video>
+<image controls src="tutorial/repeating.gif" title="repeating"></image>
 
 #### Execution Timing
 
-<video controls src="tutorial/exec_time.mp4" title="exec_time"></video>
+<image controls src="tutorial/exec_time.gif" title="exec_time"></image>
 
 ---
 
@@ -105,8 +105,8 @@ opening the app you need to
 
 #### Writing
 
-<video controls src="tutorial/write.mp4" title="writing"></video>
+<image controls src="tutorial/write.gif" title="writing"></image>
 
 #### Pressing keys
 
-<video controls src="tutorial/pressing_key.mp4" title="Pressing_key"></video>
+<image controls src="tutorial/pressing_key.gif" title="Pressing_key"></image>
