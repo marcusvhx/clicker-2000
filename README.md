@@ -2,6 +2,8 @@
 
 <div align="center">
 
+[![My Skills](https://skillicons.dev/icons?i=python&theme=light)](https://skillicons.dev)
+
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
@@ -29,6 +31,12 @@ Why does it exists?
 Due to some works a friend was doing i found out that the most part of his job was just repetitive work, then i proposed myself to make him save time automating what should be "machine work".
 
 AND HERE IS IT, AN EXTREMELY HIGH-TECH SOTWARE, MADE FOR SOLVE PROBLEMS AND MAKE YOUR LIFE BETTER, WHICH PERFORMS THE INCRIDEBE FUNCTION OF... clicking... a lot of times.
+
+### dependendcies
+
+- Python
+- PyAutoGui
+- Tkinter
 
 enjoy it 👍
 
